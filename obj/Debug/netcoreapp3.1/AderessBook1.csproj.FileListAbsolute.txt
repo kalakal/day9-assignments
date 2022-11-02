@@ -1,0 +1,14 @@
+E:\bridgelab\AderessBook1\bin\Debug\netcoreapp3.1\AderessBook1.exe
+E:\bridgelab\AderessBook1\bin\Debug\netcoreapp3.1\AderessBook1.deps.json
+E:\bridgelab\AderessBook1\bin\Debug\netcoreapp3.1\AderessBook1.runtimeconfig.json
+E:\bridgelab\AderessBook1\bin\Debug\netcoreapp3.1\AderessBook1.runtimeconfig.dev.json
+E:\bridgelab\AderessBook1\bin\Debug\netcoreapp3.1\AderessBook1.dll
+E:\bridgelab\AderessBook1\bin\Debug\netcoreapp3.1\AderessBook1.pdb
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.csproj.AssemblyReference.cache
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.AssemblyInfoInputs.cache
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.AssemblyInfo.cs
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.csproj.CoreCompileInputs.cache
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.dll
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.pdb
+E:\bridgelab\AderessBook1\obj\Debug\netcoreapp3.1\AderessBook1.genruntimeconfig.cache
